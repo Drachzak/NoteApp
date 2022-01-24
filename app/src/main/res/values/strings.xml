@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="high_priority">High Priority</string>
+    <string name="short_by">Short by</string>
+    <string name="search">Search</string>
+    <string name="dellete">Dellete</string>
+    <string name="check">Check</string>
+    <string name="update">Update</string>
+    <string-array name="Priositas">
+    <item>High Prioritas</item>
+    <item>Medium Prioritas</item>
+    <item>Low Prioritas</item>
+</string-array>
+</resources>
